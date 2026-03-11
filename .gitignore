@@ -1,0 +1,6 @@
+# koi bhi .env file ko ignore krne ke liye.
+.env
+.env.*
+
+# koi bhi node_modules ko ignore krne ke liye.
+node_modules/
